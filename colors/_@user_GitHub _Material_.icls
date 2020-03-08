@@ -4,7 +4,7 @@
     <property name="created">2020-03-08T11:22:39</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.3.3.0.0</property>
-    <property name="modified">2020-03-08T15:32:11</property>
+    <property name="modified">2020-03-08T17:10:27</property>
     <property name="originalScheme">GitHub (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -545,6 +545,12 @@
         <option name="ERROR_STRIPE_COLOR" value="d2ff" />
       </value>
     </option>
+    <option name="DOC_COMMENT_TAG_VALUE">
+      <value>
+        <option name="FOREGROUND" value="6a737d" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
     <option name="DUPLICATE_FROM_SERVER">
       <value>
         <option name="EFFECT_COLOR" value="aaaaaa" />
@@ -795,6 +801,11 @@
     <option name="JAVA.THIS_SUPER">
       <value>
         <option name="FOREGROUND" value="32f62" />
+      </value>
+    </option>
+    <option name="JAVA_DOC_TAG">
+      <value>
+        <option name="FOREGROUND" value="d798cb" />
       </value>
     </option>
     <option name="JS.CONSOLE">
