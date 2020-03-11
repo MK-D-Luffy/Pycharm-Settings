@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="消费者" />
       <item value="invoked" />
       <item value="diff" />
       <item value="守护" />
@@ -14,7 +15,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="6" />
-        <entry key="ENGLISH" value="5" />
+        <entry key="ENGLISH" value="6" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
         <entry key="MALAGASY" value="1" />
