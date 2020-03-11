@@ -1,11 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="invoked" />
       <item value="diff" />
       <item value="守护" />
       <item value="yield" />
       <item value="super.run();" />
-      <item value="invoked" />
       <item value="retention" />
       <item value="RENTENTION" />
       <item value="自定义" />
@@ -13,7 +13,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5" />
+        <entry key="CHINESE" value="6" />
         <entry key="ENGLISH" value="5" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
