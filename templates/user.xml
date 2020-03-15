@@ -1,0 +1,7 @@
+<templateSet group="user">
+  <template name="pvt" value="@Test&#10;public void test1(){&#10;&#10;}" description="Test测试单元" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
