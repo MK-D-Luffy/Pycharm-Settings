@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="collection" />
+      <item value="* Returns an iterator over the elements in this collection. There are no * guarantees concerning the order in which the elements are returned * (unless this collection is an instance of some class that provides a * guarantee)." />
       <item value="Context" />
       <item value="MathContext" />
       <item value="// The hash or hashIsZero fields are subject to a benign data race,         // making it crucial to ensure that any observable result of the         // calculation in this method stays correct under any possible read of         // these fields. Necessary restrictions to allow this to be correct         // without explicit memory fences or similar concurrency primitives is         // that we can ever only write to one of these two fields for a given         // String instance, and that the computation is idempotent and derived         // from immutable state" />
@@ -18,8 +20,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8" />
-        <entry key="ENGLISH" value="7" />
+        <entry key="CHINESE" value="9" />
+        <entry key="ENGLISH" value="10" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
         <entry key="MALAGASY" value="1" />
