@@ -8,6 +8,10 @@
     <keyboard-shortcut first-keystroke="ctrl f11" />
   </action>
   <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="ctrl numpad2" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl numpad1" />
   </action>
   <action id="CodeCompletion">
