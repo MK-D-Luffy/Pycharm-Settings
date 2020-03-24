@@ -26,6 +26,19 @@
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id="EditorDeleteLine" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="alt s" />
+    <keyboard-shortcut first-keystroke="alt g" />
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="GuiDesigner.CreateListener" />
+  <action id="MethodHierarchy.OverrideMethodAction" />
+  <action id="OverrideMethods" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="f11" />
   </action>
