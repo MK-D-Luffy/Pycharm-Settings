@@ -4,7 +4,7 @@
     <property name="created">2020-03-08T13:36:07</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.3.3.0.0</property>
-    <property name="modified">2020-03-20T07:52:53</property>
+    <property name="modified">2020-03-24T21:34:01</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -107,12 +107,12 @@
     </option>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR0">
       <value>
-        <option name="FOREGROUND" value="6f5d" />
+        <option name="FOREGROUND" value="c79b" />
       </value>
     </option>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR1">
       <value>
-        <option name="FOREGROUND" value="217427" />
+        <option name="FOREGROUND" value="229a28" />
       </value>
     </option>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR2">
@@ -560,13 +560,13 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="c679dd" />
+        <option name="FOREGROUND" value="cc8dcd" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">
       <value>
-        <option name="FOREGROUND" value="c3d3de" />
+        <option name="FOREGROUND" value="61aeef" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
@@ -2825,12 +2825,12 @@
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR0">
       <value>
-        <option name="FOREGROUND" value="6f5d" />
+        <option name="FOREGROUND" value="c79f" />
       </value>
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR1">
       <value>
-        <option name="FOREGROUND" value="1e6924" />
+        <option name="FOREGROUND" value="229a28" />
       </value>
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR2">
@@ -3239,12 +3239,12 @@
     </option>
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR0">
       <value>
-        <option name="FOREGROUND" value="6f5d" />
+        <option name="FOREGROUND" value="c79e" />
       </value>
     </option>
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR1">
       <value>
-        <option name="FOREGROUND" value="217427" />
+        <option name="FOREGROUND" value="229a28" />
       </value>
     </option>
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR2">
@@ -3264,12 +3264,12 @@
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR0">
       <value>
-        <option name="FOREGROUND" value="6f5d" />
+        <option name="FOREGROUND" value="c79b" />
       </value>
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR1">
       <value>
-        <option name="FOREGROUND" value="227628" />
+        <option name="FOREGROUND" value="229a28" />
       </value>
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR2">
