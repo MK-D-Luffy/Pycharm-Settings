@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="balance" />
+      <item value="interest" />
       <item value="ASCII" />
       <item value="the number of bytes to write." />
       <item value="* The number of valid bytes in the buffer. This value is always * in the range {@code 0} through {@code buf.length}; elements * {@code buf[0]} through {@code buf[count-1]} contain valid * byte data." />
@@ -36,8 +38,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="28" />
-        <entry key="ENGLISH" value="29" />
+        <entry key="CHINESE" value="30" />
+        <entry key="ENGLISH" value="31" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
         <entry key="ESTONIAN" value="1" />
