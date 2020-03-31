@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Instantiation Exception" />
+      <item value="Illegal Access Exception" />
+      <item value="* @deprecated This method propagates any exception thrown by the * nullary constructor, including a checked exception. Use of * this method effectively bypasses the compile-time exception * checking that would otherwise be performed by the compiler. * The {@link * java.lang.reflect.Constructor#newInstance(java.lang.Object...) * Constructor.newInstance} method avoids this problem by wrapping * any exception thrown by the constructor in a (checked) {@link * java.lang.reflect.InvocationTargetException}." />
       <item value="strictfp" />
       <item value="ANY-ACCESS-MODIFIER static final long serialVersionUID = 42L;" />
       <item value="Fields" />
@@ -42,8 +45,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="34" />
-        <entry key="ENGLISH" value="34" />
+        <entry key="CHINESE" value="36" />
+        <entry key="ENGLISH" value="37" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
         <entry key="ESTONIAN" value="1" />
