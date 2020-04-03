@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="j计算" />
+      <item value="calucate" />
       <item value="transactions" />
       <item value="encrypt" />
       <item value="加密" />
@@ -49,12 +51,13 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="40" />
-        <entry key="ENGLISH" value="41" />
+        <entry key="CHINESE" value="41" />
+        <entry key="ENGLISH" value="42" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="1" />
+        <entry key="ROMANIAN" value="1" />
         <entry key="MALAGASY" value="1" />
         <entry key="MARATHI" value="1" />
         <entry key="VIETNAMESE" value="3" />
