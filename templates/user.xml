@@ -5,7 +5,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="PVT" value="@Test&#10;public void test$number$ (){&#10;&#10;}" description="Test测试单元" toReformat="true" toShortenFQNames="true" deactivated="true">
+  <template name="pvt" value="@Test&#10;public void test$number$ (){&#10;&#10;}" description="Test测试单元" toReformat="true" toShortenFQNames="true">
     <variable name="number" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
