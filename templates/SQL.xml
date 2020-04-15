@@ -1,5 +1,5 @@
 <templateSet group="SQL">
-  <template name="sfw" value="select $filed$ from $table$ where $alias$.$END$;" toReformat="false" toShortenFQNames="true">
+  <template name="sfw" value="select $filed$ from $table$ where $alias$.$END$;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="filed" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="table" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="alias" expression="" defaultValue="" alwaysStopAt="true" />
