@@ -1,0 +1,11 @@
+<templateSet group="SQL">
+  <template name="sfw" value="select $filed$ from $table$ where $alias$.$END$;" toReformat="false" toShortenFQNames="true">
+    <variable name="filed" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="table" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="alias" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="SQL" value="true" />
+    </context>
+  </template>
+</templateSet>
