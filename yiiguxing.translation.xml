@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Minimal Elements" />
+      <item value="extension.ParameterResolutionException: No ParameterResolver registered for parameter [int arg0] in constructor [HomeWorkTest5$MyInteger(int)]." />
+      <item value="An array of query replacement parameters. Each row in * this array is one set of batch replacement values." />
+      <item value="* Execute a batch of SQL INSERT, UPDATE, or DELETE queries. * * @param conn The Connection to use to run the query. The caller is * responsible for closing this Connection. * @param sql The SQL to execute. * @param params An array of query replacement parameters. Each row in * this array is one set of batch replacement values. * @return The number of rows updated per statement. * @throws SQLException if a database access error occurs * @since DbUtils 1.1" />
       <item value="Can not call newInstance() on the Class for java.lang.Class" />
       <item value="durability" />
       <item value="durablity" />
@@ -47,15 +51,11 @@
       <item value="// The hash or hashIsZero fields are subject to a benign data race,         // making it crucial to ensure that any observable result of the         // calculation in this method stays correct under any possible read of         // these fields. Necessary restrictions to allow this to be correct         // without explicit memory fences or similar concurrency primitives is         // that we can ever only write to one of these two fields for a given         // String instance, and that the computation is idempotent and derived         // from immutable state" />
       <item value=" COMPLETING " />
       <item value="消费者" />
-      <item value="invoked" />
-      <item value="diff" />
-      <item value="守护" />
-      <item value="yield" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="50" />
-        <entry key="ENGLISH" value="51" />
+        <entry key="CHINESE" value="54" />
+        <entry key="ENGLISH" value="55" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
         <entry key="ESTONIAN" value="1" />
