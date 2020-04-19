@@ -4,7 +4,7 @@
     <property name="created">2020-03-08T11:22:39</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.3.3.0.0</property>
-    <property name="modified">2020-04-18T22:45:03</property>
+    <property name="modified">2020-04-19T08:21:41</property>
     <property name="originalScheme">GitHub (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -693,12 +693,17 @@
         <option name="FOREGROUND" value="6c43ff" />
       </value>
     </option>
+    <option name="HTML_ATTRIBUTE_VALUE">
+      <value>
+        <option name="FOREGROUND" value="352b7" />
+      </value>
+    </option>
     <option name="HTML_CODE">
       <value />
     </option>
     <option name="HTML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="3690ff" />
+        <option name="FOREGROUND" value="1b6eff" />
       </value>
     </option>
     <option name="HTTP_REQUEST_PARAMETER_NAME">
