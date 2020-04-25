@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="WARNING: An illegal reflective access operation has occurred WARNING: Illegal reflective access by org.dom4j.io.SAXContentHandler (file:/C:/Users/Administrator/IdeaProjects/Javaweb/05_XML/libs/dom4j-1.6.1.jar) to method com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser$LocatorProxy.getEncoding() WARNING: Please consider reporting this to the maintainers of org.dom4j.io.SAXContentHandler WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations WARNING: All illegal access operations will be denied in a future release" />
       <item value="Sibling" />
       <item value="Minimal Elements" />
       <item value="extension.ParameterResolutionException: No ParameterResolver registered for parameter [int arg0] in constructor [HomeWorkTest5$MyInteger(int)]." />
@@ -50,12 +51,11 @@
       <item value="Context" />
       <item value="MathContext" />
       <item value="// The hash or hashIsZero fields are subject to a benign data race,         // making it crucial to ensure that any observable result of the         // calculation in this method stays correct under any possible read of         // these fields. Necessary restrictions to allow this to be correct         // without explicit memory fences or similar concurrency primitives is         // that we can ever only write to one of these two fields for a given         // String instance, and that the computation is idempotent and derived         // from immutable state" />
-      <item value=" COMPLETING " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="55" />
-        <entry key="ENGLISH" value="56" />
+        <entry key="CHINESE" value="56" />
+        <entry key="ENGLISH" value="57" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
         <entry key="ESTONIAN" value="1" />
