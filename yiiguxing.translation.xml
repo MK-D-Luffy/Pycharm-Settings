@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Wrap the &lt;code&gt;ResultSet&lt;/code&gt; in a decorator before processing it. * This implementation returns the &lt;code&gt;ResultSet&lt;/code&gt; it is given * without any decoration." />
+      <item value="* Fill the &lt;code&gt;PreparedStatement&lt;/code&gt; replacement parameters with * the given objects." />
+      <item value="Returns a string representation of the &quot;deep contents&quot; of the specified * array. If the array contains other arrays as elements, the string * representation contains their contents and so on. This method is * designed for converting multidimensional arrays to strings." />
+      <item value="a the array whose string representation to return" />
+      <item value="the array whose string representation to return" />
       <item value="Generic Servlet" />
       <item value="WARNING: An illegal reflective access operation has occurred WARNING: Illegal reflective access by org.dom4j.io.SAXContentHandler (file:/C:/Users/Administrator/IdeaProjects/Javaweb/05_XML/libs/dom4j-1.6.1.jar) to method com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser$LocatorProxy.getEncoding() WARNING: Please consider reporting this to the maintainers of org.dom4j.io.SAXContentHandler WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations WARNING: All illegal access operations will be denied in a future release" />
       <item value="Sibling" />
@@ -46,16 +51,11 @@
       <item value="evict)" />
       <item value="Integer" />
       <item value="Field" />
-      <item value="three-digit" />
-      <item value="collection" />
-      <item value="* Returns an iterator over the elements in this collection. There are no * guarantees concerning the order in which the elements are returned * (unless this collection is an instance of some class that provides a * guarantee)." />
-      <item value="Context" />
-      <item value="MathContext" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="56" />
-        <entry key="ENGLISH" value="57" />
+        <entry key="CHINESE" value="61" />
+        <entry key="ENGLISH" value="62" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
         <entry key="ESTONIAN" value="1" />
