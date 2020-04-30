@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="field Name" />
+      <item value="field" />
+      <item value="is Form Field" />
       <item value="* Wrap the &lt;code&gt;ResultSet&lt;/code&gt; in a decorator before processing it. * This implementation returns the &lt;code&gt;ResultSet&lt;/code&gt; it is given * without any decoration." />
       <item value="Wrap the &lt;code&gt;ResultSet&lt;/code&gt; in a decorator before processing it. * This implementation returns the &lt;code&gt;ResultSet&lt;/code&gt; it is given * without any decoration." />
       <item value="* Fill the &lt;code&gt;PreparedStatement&lt;/code&gt; replacement parameters with * the given objects." />
@@ -48,14 +51,11 @@
       <item value="stored" />
       <item value="The internal buffer where data is stored." />
       <item value="entity" />
-      <item value="format" />
-      <item value="evict)" />
-      <item value="Integer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
-        <entry key="ENGLISH" value="63" />
+        <entry key="CHINESE" value="65" />
+        <entry key="ENGLISH" value="66" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
         <entry key="ESTONIAN" value="1" />
