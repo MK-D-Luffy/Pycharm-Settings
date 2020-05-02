@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="// Dump array back into list // instead of using a raw type here, it's possible to capture // the wildcard but it will require a call to a supplementary // private method" />
       <item value="Invocation Target Exception" />
       <item value="field Name" />
       <item value="field" />
@@ -50,12 +51,11 @@
       <item value="* Flushes this buffered output stream. This forces any buffered * output bytes to be written out to the underlying output stream." />
       <item value="/* If the request length exceeds the size of the output buffer, flush the output buffer and then write the data directly. In this way buffered streams will cascade harmlessly. */" />
       <item value="stored" />
-      <item value="The internal buffer where data is stored." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="67" />
-        <entry key="ENGLISH" value="68" />
+        <entry key="CHINESE" value="68" />
+        <entry key="ENGLISH" value="69" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
         <entry key="ESTONIAN" value="1" />
