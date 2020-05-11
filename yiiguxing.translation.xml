@@ -1,6 +1,36 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Scheme" />
+      <item value="get Context Path" />
+      <item value="stock" />
+      <item value="set Max Inactive Interval" />
+      <item value="invalidate" />
+      <item value="// Dump array back into list // instead of using a raw type here, it's possible to capture // the wildcard but it will require a call to a supplementary // private method" />
+      <item value="Invocation Target Exception" />
+      <item value="field Name" />
+      <item value="field" />
+      <item value="is Form Field" />
+      <item value="* Wrap the &lt;code&gt;ResultSet&lt;/code&gt; in a decorator before processing it. * This implementation returns the &lt;code&gt;ResultSet&lt;/code&gt; it is given * without any decoration." />
+      <item value="Wrap the &lt;code&gt;ResultSet&lt;/code&gt; in a decorator before processing it. * This implementation returns the &lt;code&gt;ResultSet&lt;/code&gt; it is given * without any decoration." />
+      <item value="* Fill the &lt;code&gt;PreparedStatement&lt;/code&gt; replacement parameters with * the given objects." />
+      <item value="Returns a string representation of the &quot;deep contents&quot; of the specified * array. If the array contains other arrays as elements, the string * representation contains their contents and so on. This method is * designed for converting multidimensional arrays to strings." />
+      <item value="a the array whose string representation to return" />
+      <item value="the array whose string representation to return" />
+      <item value="Generic Servlet" />
+      <item value="WARNING: An illegal reflective access operation has occurred WARNING: Illegal reflective access by org.dom4j.io.SAXContentHandler (file:/C:/Users/Administrator/IdeaProjects/Javaweb/05_XML/libs/dom4j-1.6.1.jar) to method com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser$LocatorProxy.getEncoding() WARNING: Please consider reporting this to the maintainers of org.dom4j.io.SAXContentHandler WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations WARNING: All illegal access operations will be denied in a future release" />
+      <item value="Sibling" />
+      <item value="Minimal Elements" />
+      <item value="extension.ParameterResolutionException: No ParameterResolver registered for parameter [int arg0] in constructor [HomeWorkTest5$MyInteger(int)]." />
+      <item value="An array of query replacement parameters. Each row in * this array is one set of batch replacement values." />
+      <item value="* Execute a batch of SQL INSERT, UPDATE, or DELETE queries. * * @param conn The Connection to use to run the query. The caller is * responsible for closing this Connection. * @param sql The SQL to execute. * @param params An array of query replacement parameters. Each row in * this array is one set of batch replacement values. * @return The number of rows updated per statement. * @throws SQLException if a database access error occurs * @since DbUtils 1.1" />
+      <item value="Can not call newInstance() on the Class for java.lang.Class" />
+      <item value="durability" />
+      <item value="durablity" />
+      <item value="isolation" />
+      <item value="consistency" />
+      <item value="atomicity" />
+      <item value="Batch" />
       <item value="* Accepts a function that extracts a {@link java.lang.Comparable * Comparable} sort key from a type {@code T}, and returns a {@code * Comparator&lt;T&gt;} that compares by that sort key. * * &lt;p&gt;The returned comparator is serializable if the specified function * is also serializable. *" />
       <item value="j计算" />
       <item value="calucate" />
@@ -21,48 +51,26 @@
       <item value="the number of bytes to write." />
       <item value="* The number of valid bytes in the buffer. This value is always * in the range {@code 0} through {@code buf.length}; elements * {@code buf[0]} through {@code buf[count-1]} contain valid * byte data." />
       <item value="* The internal buffer where data is stored." />
-      <item value="If the request length exceeds the size of the output buffer, flush the output buffer and then write the data directly. In this way buffered streams will cascade harmlessly. */" />
-      <item value="/** * Copies an array from the specified source array, beginning at the * specified position, to the specified position of the destination array. * A subsequence of array components are copied from the source * array referenced by {@code src} to the destination array * referenced by {@code dest}. The number of components copied is * equal to the {@code length} argument. The components at * positions {@code srcPos} through * {@code srcPos+length-1} in the source array are copied into * positions {@code destPos} through * {@code destPos+length-1}, respectively, of the destination * array. * &lt;p&gt; * If the {@code src} and {@code dest} arguments refer to the * same array object, then the copying is performed as if the * components at positions {@code srcPos} through * {@code srcPos+length-1} were first copied to a temporary * array with {@code length} components and then the contents of * the temporary array were copied into positions * {@code destPos} through {@code destPos+length-1} of the * destination array. * &lt;p&gt; * If {@code dest} is {@code null}, then a * {@code NullPointerException} is thrown. * &lt;p&gt; * If {@code src} is {@code null}, then a * {@code NullPointerException} is thrown and the destination * array is not modified. * &lt;p&gt; * Otherwise, if any of the following is true, an * {@code ArrayStoreException} is thrown and the destination is * not modified: * &lt;ul&gt; * &lt;li&gt;The {@code src} argument refers to an object that is not an * array. * &lt;li&gt;The {@code dest} argument refers to an object that is not an * array. * &lt;li&gt;The {@code src} argument and {@code dest} argument refer * to arrays whose component types are different primitive types. * &lt;li&gt;The {@code src} argument refers to an array with a primitive * component type and the {@code dest} argument refers to an array * with a reference component type. * &lt;li&gt;The {@code src} argument refers to an array with a reference * component type and the {@code dest} argument refers to an array * with a primitive component type. * &lt;/ul&gt; * &lt;p&gt; * Otherwise, if any of the following is true, an * {@code IndexOutOfBoundsException} is * thrown and the destination is not modified: * &lt;ul&gt; * &lt;li&gt;The {@code srcPos} argument is negative. * &lt;li&gt;The {@code destPos} argument is negative. * &lt;li&gt;The {@code length} argument is negative. * &lt;li&gt;{@code srcPos+length} is greater than * {@code src.length}, the length of the source array. * &lt;li&gt;{@code destPos+length} is greater than * {@code dest.length}, the length of the destination array. * &lt;/ul&gt; * &lt;p&gt; * Otherwise, if any actual component of the source array from * position {@code srcPos} through * {@code srcPos+length-1} cannot be converted to the component * type of the destination array by assignment conversion, an * {@code ArrayStoreException} is thrown. In this case, let * &lt;b&gt;&lt;i&gt;k&lt;/i&gt;&lt;/b&gt; be the smallest nonnegative integer less than * length such that {@code src[srcPos+}&lt;i&gt;k&lt;/i&gt;{@code ]} * cannot be converted to the component type of the destination * array; when the exception is thrown, source array components from * positions {@code srcPos} through * {@code srcPos+}&lt;i&gt;k&lt;/i&gt;{@code -1} * will already have been copied to destination array positions * {@code destPos} through * {@code destPos+}&lt;i&gt;k&lt;/I&gt;{@code -1} and no other * positions of the destination array will have been modified. * (Because of the restrictions already itemized, this * paragraph effectively applies only to the situation where both * arrays have component types that are reference types.) * * @param src the source array. * @param srcPos starting position in the source array. * @param dest the destination array. * @param destPos starting position in the destination data. * @param length the number of array elements to be copied. * @throws IndexOutOfBoundsException if copying would cause * access of data outside array bounds. * @throws ArrayStoreException if an element in the {@code src} * array could not be stored into the {@code dest} array * because of a type mismatch. * @throws NullPointerException if either {@code src} or * {@code dest} is {@code null}." />
-      <item value="* Flushes this buffered output stream. This forces any buffered * output bytes to be written out to the underlying output stream." />
-      <item value="/* If the request length exceeds the size of the output buffer, flush the output buffer and then write the data directly. In this way buffered streams will cascade harmlessly. */" />
-      <item value="stored" />
-      <item value="The internal buffer where data is stored." />
-      <item value="entity" />
-      <item value="format" />
-      <item value="evict)" />
-      <item value="Integer" />
-      <item value="Field" />
-      <item value="three-digit" />
-      <item value="collection" />
-      <item value="* Returns an iterator over the elements in this collection. There are no * guarantees concerning the order in which the elements are returned * (unless this collection is an instance of some class that provides a * guarantee)." />
-      <item value="Context" />
-      <item value="MathContext" />
-      <item value="// The hash or hashIsZero fields are subject to a benign data race,         // making it crucial to ensure that any observable result of the         // calculation in this method stays correct under any possible read of         // these fields. Necessary restrictions to allow this to be correct         // without explicit memory fences or similar concurrency primitives is         // that we can ever only write to one of these two fields for a given         // String instance, and that the computation is idempotent and derived         // from immutable state" />
-      <item value=" COMPLETING " />
-      <item value="消费者" />
-      <item value="invoked" />
-      <item value="diff" />
-      <item value="守护" />
-      <item value="yield" />
-      <item value="super.run();" />
-      <item value="retention" />
-      <item value="RENTENTION" />
-      <item value="自定义" />
-      <item value="今天" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="42" />
-        <entry key="ENGLISH" value="43" />
+        <entry key="CHINESE" value="73" />
+        <entry key="ENGLISH" value="74" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
         <entry key="ESTONIAN" value="1" />
-        <entry key="FRENCH" value="1" />
-        <entry key="ROMANIAN" value="1" />
+        <entry key="BULGARIAN" value="1" />
+        <entry key="FRENCH" value="2" />
+        <entry key="KAZAKH" value="1" />
+        <entry key="ROMANIAN" value="2" />
         <entry key="MALAGASY" value="1" />
         <entry key="MARATHI" value="1" />
-        <entry key="VIETNAMESE" value="3" />
+        <entry key="IGBO" value="1" />
+        <entry key="VIETNAMESE" value="4" />
       </map>
     </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
   </component>
 </application>
