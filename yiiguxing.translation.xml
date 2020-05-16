@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Get an attribute value from the first matched element that has the attribute. @param attributeKey The attribute key. @return The attribute value from the first matched element that has the attribute.. If no elements were matched (isEmpty() == true), or if the no elements have the attribute, returns empty string." />
       <item value="/** * Returns the index within this string of the first occurrence of the * specified substring. * * &lt;p&gt;The returned index is the smallest value {@code k} for which: * &lt;pre&gt;{@code * this.startsWith(str, k) * }&lt;/pre&gt; * If no such value of {@code k} exists, then {@code -1} is returned. * * @param str the substring to search for. * @return the index of the first occurrence of the specified substring, * or {@code -1} if there is no such occurrence. */" />
       <item value="Scheme" />
       <item value="get Context Path" />
@@ -50,12 +51,11 @@
       <item value="interest" />
       <item value="ASCII" />
       <item value="the number of bytes to write." />
-      <item value="* The number of valid bytes in the buffer. This value is always * in the range {@code 0} through {@code buf.length}; elements * {@code buf[0]} through {@code buf[count-1]} contain valid * byte data." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="74" />
-        <entry key="ENGLISH" value="75" />
+        <entry key="CHINESE" value="75" />
+        <entry key="ENGLISH" value="76" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
         <entry key="ESTONIAN" value="1" />
