@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\src\HomeWorkTest3.java'" />
-    <option name="defaultScopeName" value="File '...\src\HomeWorkTest3.java'" />
-    <option name="SEARCH_SCOPE" value="File '...\src\HomeWorkTest3.java'" />
+    <option name="customScope" value="项目 'Javaweb'" />
+    <option name="defaultScopeName" value="项目 'Javaweb'" />
+    <option name="SEARCH_SCOPE" value="项目 'Javaweb'" />
   </component>
 </application>
