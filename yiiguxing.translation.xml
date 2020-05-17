@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Class [Triangle1] must declare a single constructor" />
+      <item value="Precondition Violation Exception" />
       <item value="&lt;dependency&gt;--&gt; &lt;!-- &lt;groupId&gt;org.example&lt;/groupId&gt;--&gt; &lt;!-- &lt;artifactId&gt;untitled2&lt;/artifactId&gt;--&gt; &lt;!-- &lt;version&gt;1.0-SNAPSHOT&lt;/version&gt;--&gt; &lt;!-- &lt;exclusions&gt;--&gt; &lt;!-- &lt;exclusion&gt;--&gt; &lt;!-- &lt;groupId&gt;log4j&lt;/groupId&gt;--&gt; &lt;!-- &lt;artifactId&gt;log4j&lt;/artifactId&gt;--&gt; &lt;!-- &lt;/exclusion&gt;--&gt; &lt;!-- &lt;/exclusions&gt;--&gt; &lt;!-- &lt;/dependency&gt;--&gt;" />
       <item value="Get an attribute value from the first matched element that has the attribute. @param attributeKey The attribute key. @return The attribute value from the first matched element that has the attribute.. If no elements were matched (isEmpty() == true), or if the no elements have the attribute, returns empty string." />
       <item value="/** * Returns the index within this string of the first occurrence of the * specified substring. * * &lt;p&gt;The returned index is the smallest value {@code k} for which: * &lt;pre&gt;{@code * this.startsWith(str, k) * }&lt;/pre&gt; * If no such value of {@code k} exists, then {@code -1} is returned. * * @param str the substring to search for. * @return the index of the first occurrence of the specified substring, * or {@code -1} if there is no such occurrence. */" />
@@ -49,13 +51,11 @@
       <item value="Fields" />
       <item value="write Fields" />
       <item value="balance" />
-      <item value="interest" />
-      <item value="ASCII" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="77" />
-        <entry key="ENGLISH" value="77" />
+        <entry key="CHINESE" value="78" />
+        <entry key="ENGLISH" value="79" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
         <entry key="ESTONIAN" value="1" />
