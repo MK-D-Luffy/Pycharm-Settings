@@ -42,6 +42,10 @@
   <action id="GuiDesigner.CreateListener" />
   <action id="MethodHierarchy.OverrideMethodAction" />
   <action id="OverrideMethods" />
+  <action id="ProjectRefreshAction">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+    <keyboard-shortcut first-keystroke="ctrl numpad0" />
+  </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="f11" />
   </action>
@@ -53,6 +57,9 @@
   </action>
   <action id="ToggleBookmarkWithMnemonic">
     <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="ToggleZenMode">
+    <keyboard-shortcut first-keystroke="ctrl alt numpad1" />
   </action>
   <action id="UpdateRunningApplication" />
 </keymap>
