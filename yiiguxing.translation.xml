@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A repository of &quot;shared secrets&quot;, which are a mechanism for calling implementation-private methods in another package without using reflection. A package-private class implements a public interface and provides the ability to call package-private methods within that package; the object implementing that interface is provided through a third package to which access is restricted. This framework avoids the primary disadvantage of using reflection for this purpose, namely the loss of compile-time checking." />
+      <item value="* The random number generator used by this class to create random * based UUIDs. In a holder class to defer initialization until needed." />
+      <item value="Explicit serialVersionUID for interoperability." />
       <item value="timestamp" />
       <item value="Class [Triangle1] must declare a single constructor" />
       <item value="Precondition Violation Exception" />
@@ -48,14 +51,11 @@
       <item value="Illegal Access Exception" />
       <item value="* @deprecated This method propagates any exception thrown by the * nullary constructor, including a checked exception. Use of * this method effectively bypasses the compile-time exception * checking that would otherwise be performed by the compiler. * The {@link * java.lang.reflect.Constructor#newInstance(java.lang.Object...) * Constructor.newInstance} method avoids this problem by wrapping * any exception thrown by the constructor in a (checked) {@link * java.lang.reflect.InvocationTargetException}." />
       <item value="strictfp" />
-      <item value="ANY-ACCESS-MODIFIER static final long serialVersionUID = 42L;" />
-      <item value="Fields" />
-      <item value="write Fields" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="80" />
-        <entry key="ENGLISH" value="81" />
+        <entry key="CHINESE" value="83" />
+        <entry key="ENGLISH" value="84" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
         <entry key="ESTONIAN" value="1" />
