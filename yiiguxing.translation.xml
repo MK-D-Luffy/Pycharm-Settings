@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="timestamp" />
       <item value="Class [Triangle1] must declare a single constructor" />
       <item value="Precondition Violation Exception" />
       <item value="&lt;dependency&gt;--&gt; &lt;!-- &lt;groupId&gt;org.example&lt;/groupId&gt;--&gt; &lt;!-- &lt;artifactId&gt;untitled2&lt;/artifactId&gt;--&gt; &lt;!-- &lt;version&gt;1.0-SNAPSHOT&lt;/version&gt;--&gt; &lt;!-- &lt;exclusions&gt;--&gt; &lt;!-- &lt;exclusion&gt;--&gt; &lt;!-- &lt;groupId&gt;log4j&lt;/groupId&gt;--&gt; &lt;!-- &lt;artifactId&gt;log4j&lt;/artifactId&gt;--&gt; &lt;!-- &lt;/exclusion&gt;--&gt; &lt;!-- &lt;/exclusions&gt;--&gt; &lt;!-- &lt;/dependency&gt;--&gt;" />
@@ -50,12 +51,11 @@
       <item value="ANY-ACCESS-MODIFIER static final long serialVersionUID = 42L;" />
       <item value="Fields" />
       <item value="write Fields" />
-      <item value="balance" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="78" />
-        <entry key="ENGLISH" value="79" />
+        <entry key="CHINESE" value="80" />
+        <entry key="ENGLISH" value="81" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
         <entry key="ESTONIAN" value="1" />
