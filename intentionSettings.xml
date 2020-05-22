@@ -1,5 +1,6 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="Java/Boolean/Flip comparison" />
+    <ignoreAction name="Language injection/注入语言或引用" />
   </component>
 </application>
