@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Conversion Pattern" />
       <item value="Flushes batch statements and commits database connection. * Note that database connection will not be committed if no updates/deletes/inserts were called." />
       <item value="Flushes batch statements and commits database connection." />
       <item value="Mapper interface class" />
@@ -50,12 +51,11 @@
       <item value="consistency" />
       <item value="atomicity" />
       <item value="Batch" />
-      <item value="* Accepts a function that extracts a {@link java.lang.Comparable * Comparable} sort key from a type {@code T}, and returns a {@code * Comparator&lt;T&gt;} that compares by that sort key. * * &lt;p&gt;The returned comparator is serializable if the specified function * is also serializable. *" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="93" />
-        <entry key="ENGLISH" value="94" />
+        <entry key="CHINESE" value="94" />
+        <entry key="ENGLISH" value="95" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
         <entry key="ESTONIAN" value="1" />
