@@ -4,7 +4,7 @@
     <property name="created">2020-03-08T11:22:39</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.3.3.0.0</property>
-    <property name="modified">2020-05-24T16:43:30</property>
+    <property name="modified">2020-05-25T17:32:23</property>
     <property name="originalScheme">GitHub (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -2605,6 +2605,7 @@
     <option name="XML_COMMENT">
       <value>
         <option name="FOREGROUND" value="3c7d34" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="XML_TAG_DATA">

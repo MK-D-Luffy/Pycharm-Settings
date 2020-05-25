@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="discriminator" />
       <item value="Invalid bound statement (not found)" />
       <item value="if (!file.exists()) { FileWriter fw = new FileWriter(file, true); for (int i = 0; i &lt; 100; i++) { int i1 = new Random().nextInt(10000); fw.write(i1+&quot; &quot;); } }" />
       <item value="type Aliases" />
@@ -50,12 +51,11 @@
       <item value="Can not call newInstance() on the Class for java.lang.Class" />
       <item value="durability" />
       <item value="durablity" />
-      <item value="isolation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="97" />
-        <entry key="ENGLISH" value="98" />
+        <entry key="CHINESE" value="98" />
+        <entry key="ENGLISH" value="99" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
         <entry key="ESTONIAN" value="1" />
