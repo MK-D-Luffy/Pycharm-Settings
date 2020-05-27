@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=": java.lang.IllegalAccessError: superclass access check failed: class com.sun.javafx.scene.control.ControlHelp" />
+      <item value="set Rotate" />
       <item value="Duration.INDEFINITE" />
       <item value="INDEFINITE" />
       <item value="Duration" />
@@ -49,13 +51,11 @@
       <item value="get Context Path" />
       <item value="stock" />
       <item value="set Max Inactive Interval" />
-      <item value="invalidate" />
-      <item value="// Dump array back into list // instead of using a raw type here, it's possible to capture // the wildcard but it will require a call to a supplementary // private method" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="118" />
-        <entry key="ENGLISH" value="119" />
+        <entry key="CHINESE" value="120" />
+        <entry key="ENGLISH" value="121" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
         <entry key="ESTONIAN" value="1" />
