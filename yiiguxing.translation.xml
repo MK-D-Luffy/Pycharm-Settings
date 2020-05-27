@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Gregorian Calendar" />
+      <item value="endar" />
+      <item value="Gregorian" />
       <item value="Orientation" />
       <item value="Transaction Isolation Level" />
       <item value="Criterion" />
@@ -48,18 +51,16 @@
       <item value="Wrap the &lt;code&gt;ResultSet&lt;/code&gt; in a decorator before processing it. * This implementation returns the &lt;code&gt;ResultSet&lt;/code&gt; it is given * without any decoration." />
       <item value="* Fill the &lt;code&gt;PreparedStatement&lt;/code&gt; replacement parameters with * the given objects." />
       <item value="Returns a string representation of the &quot;deep contents&quot; of the specified * array. If the array contains other arrays as elements, the string * representation contains their contents and so on. This method is * designed for converting multidimensional arrays to strings." />
-      <item value="a the array whose string representation to return" />
-      <item value="the array whose string representation to return" />
-      <item value="Generic Servlet" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="107" />
-        <entry key="ENGLISH" value="108" />
+        <entry key="CHINESE" value="110" />
+        <entry key="ENGLISH" value="111" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BULGARIAN" value="1" />
+        <entry key="ICELANDIC" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="KAZAKH" value="1" />
         <entry key="ROMANIAN" value="2" />
