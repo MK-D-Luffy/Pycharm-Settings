@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="number to be scaled by a power of two." />
+      <item value="scalb" />
       <item value="* Returns the value of the given calendar field. This method does * not involve normalization or validation of the field value. *" />
       <item value="* Fills in any unset fields in the calendar fields. First, the {@link * #computeTime()} method is called if the time value (millisecond offset * from the &lt;a href=&quot;#Epoch&quot;&gt;Epoch&lt;/a&gt;) has not been calculated from * calendar field values. Then, the {@link #computeFields()} method is * called to calculate all calendar field values." />
       <item value="Gregorian Calendar" />
@@ -49,13 +51,11 @@
       <item value="field Name" />
       <item value="field" />
       <item value="is Form Field" />
-      <item value="* Wrap the &lt;code&gt;ResultSet&lt;/code&gt; in a decorator before processing it. * This implementation returns the &lt;code&gt;ResultSet&lt;/code&gt; it is given * without any decoration." />
-      <item value="Wrap the &lt;code&gt;ResultSet&lt;/code&gt; in a decorator before processing it. * This implementation returns the &lt;code&gt;ResultSet&lt;/code&gt; it is given * without any decoration." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="112" />
-        <entry key="ENGLISH" value="113" />
+        <entry key="CHINESE" value="113" />
+        <entry key="ENGLISH" value="114" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
         <entry key="ESTONIAN" value="1" />
@@ -63,7 +63,7 @@
         <entry key="ICELANDIC" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="KAZAKH" value="1" />
-        <entry key="ROMANIAN" value="2" />
+        <entry key="ROMANIAN" value="3" />
         <entry key="MALAGASY" value="1" />
         <entry key="MARATHI" value="1" />
         <entry key="IGBO" value="1" />
