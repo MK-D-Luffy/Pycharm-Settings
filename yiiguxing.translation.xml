@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="build Statement From Context" />
+      <item value="parse Pending" />
+      <item value="parse Pending Result Maps" />
       <item value="apply Current Namespace" />
       <item value="add Mapped Statement" />
       <item value="builder Assistant" />
@@ -48,14 +51,11 @@
       <item value="Process terminated" />
       <item value="Persistence Exception" />
       <item value="* Unless required by applicable law or agreed to in writing, software * distributed under the License is distributed on an &quot;AS IS&quot; BASIS, * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. * See the License for the specific language governing permissions and * limitations under the License." />
-      <item value="Clinton Begin" />
-      <item value="A repository of &quot;shared secrets&quot;, which are a mechanism for calling implementation-private methods in another package without using reflection. A package-private class implements a public interface and provides the ability to call package-private methods within that package; the object implementing that interface is provided through a third package to which access is restricted. This framework avoids the primary disadvantage of using reflection for this purpose, namely the loss of compile-time checking." />
-      <item value="* The random number generator used by this class to create random * based UUIDs. In a holder class to defer initialization until needed." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="133" />
-        <entry key="ENGLISH" value="134" />
+        <entry key="CHINESE" value="137" />
+        <entry key="ENGLISH" value="138" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
         <entry key="ESTONIAN" value="1" />
