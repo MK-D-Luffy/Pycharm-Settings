@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Concurrent Hash Map" />
+      <item value="Caller Sensitive" />
+      <item value="Invocation Handler" />
+      <item value="mapper Registry" />
       <item value="Error Context" />
       <item value="plugin" />
       <item value="plugin All" />
@@ -47,15 +51,11 @@
       <item value="discriminator" />
       <item value="Invalid bound statement (not found)" />
       <item value="if (!file.exists()) { FileWriter fw = new FileWriter(file, true); for (int i = 0; i &lt; 100; i++) { int i1 = new Random().nextInt(10000); fw.write(i1+&quot; &quot;); } }" />
-      <item value="type Aliases" />
-      <item value="Conversion Pattern" />
-      <item value="Flushes batch statements and commits database connection. * Note that database connection will not be committed if no updates/deletes/inserts were called." />
-      <item value="Flushes batch statements and commits database connection." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="144" />
-        <entry key="ENGLISH" value="145" />
+        <entry key="CHINESE" value="148" />
+        <entry key="ENGLISH" value="149" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
         <entry key="ESTONIAN" value="1" />
