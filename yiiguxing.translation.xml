@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="// Popular vote was to return null on 0 results and throw exception on too many." />
       <item value="convert Args To Sql Command Param" />
       <item value="returns Cursor" />
       <item value="Cursor" />
@@ -50,12 +51,11 @@
       <item value="Transaction Isolation Level" />
       <item value="Criterion" />
       <item value="update By Example" />
-      <item value="insert Selective" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="157" />
-        <entry key="ENGLISH" value="158" />
+        <entry key="CHINESE" value="158" />
+        <entry key="ENGLISH" value="159" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
         <entry key="ESTONIAN" value="1" />
