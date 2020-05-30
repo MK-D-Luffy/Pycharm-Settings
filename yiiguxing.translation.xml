@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="entry" />
       <item value="Bean Definition Parsing Exception" />
       <item value="lookup-method" />
       <item value="qualifier" />
@@ -50,7 +51,6 @@
       <item value="number to be scaled by a power of two." />
       <item value="scalb" />
       <item value="* Returns the value of the given calendar field. This method does * not involve normalization or validation of the field value. *" />
-      <item value="* Fills in any unset fields in the calendar fields. First, the {@link * #computeTime()} method is called if the time value (millisecond offset * from the &lt;a href=&quot;#Epoch&quot;&gt;Epoch&lt;/a&gt;) has not been calculated from * calendar field values. Then, the {@link #computeFields()} method is * called to calculate all calendar field values." />
     </histories>
     <option name="languageScores">
       <map>
