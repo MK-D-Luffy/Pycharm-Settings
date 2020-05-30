@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="lookup-method" />
+      <item value="qualifier" />
+      <item value="description" />
       <item value="Routing Statement Handler" />
       <item value="Bound Sql" />
       <item value="row Bounds" />
@@ -48,14 +51,11 @@
       <item value="* Returns the value of the given calendar field. This method does * not involve normalization or validation of the field value. *" />
       <item value="* Fills in any unset fields in the calendar fields. First, the {@link * #computeTime()} method is called if the time value (millisecond offset * from the &lt;a href=&quot;#Epoch&quot;&gt;Epoch&lt;/a&gt;) has not been calculated from * calendar field values. Then, the {@link #computeFields()} method is * called to calculate all calendar field values." />
       <item value="Gregorian Calendar" />
-      <item value="endar" />
-      <item value="Gregorian" />
-      <item value="Orientation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="165" />
-        <entry key="ENGLISH" value="166" />
+        <entry key="CHINESE" value="168" />
+        <entry key="ENGLISH" value="169" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
         <entry key="ESTONIAN" value="1" />
