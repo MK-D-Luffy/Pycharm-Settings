@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Invocation Handler" />
+      <item value="Invocation" />
       <item value="Application context not configured for this file" />
       <item value="Component" />
       <item value="Repository" />
@@ -28,7 +30,6 @@
       <item value="compute If Absent" />
       <item value="private Lookup In Method" />
       <item value="Concurrent Hash Map" />
-      <item value="Invocation Handler" />
       <item value="mapper Registry" />
       <item value="Error Context" />
       <item value="plugin" />
@@ -50,12 +51,11 @@
       <item value="eval Node" />
       <item value="statement" />
       <item value="statement Parser" />
-      <item value=": java.lang.IllegalAccessError: superclass access check failed: class com.sun.javafx.scene.control.ControlHelp" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="177" />
-        <entry key="ENGLISH" value="178" />
+        <entry key="CHINESE" value="180" />
+        <entry key="ENGLISH" value="181" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
         <entry key="ESTONIAN" value="1" />
