@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="advisor" />
+      <item value="* @param method the method being invoked * @param args the arguments to the method * @param target the target of the method invocation. May be {@code null}." />
+      <item value="the target of the method invocation." />
+      <item value="Advice" />
       <item value="Proxy Invocation Handler" />
       <item value="Invocation Handler" />
       <item value="Invocation" />
@@ -47,15 +51,11 @@
       <item value="Assistant" />
       <item value="add Incomplete Statement" />
       <item value="configuration Element" />
-      <item value="A mapper element may only specify a url, resource or class, but not more than one." />
-      <item value="is Resource Loaded" />
-      <item value="eval Node" />
-      <item value="statement" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="181" />
-        <entry key="ENGLISH" value="182" />
+        <entry key="CHINESE" value="185" />
+        <entry key="ENGLISH" value="186" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
         <entry key="ESTONIAN" value="1" />
