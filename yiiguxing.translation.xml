@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ROUND" />
+      <item value="CHORD" />
+      <item value="The closure type for an arc closed by drawing straight line segments * from the start of the arc segment to the center of the full ellipse * and from that point to the end of the arc segment." />
       <item value="Geometric Object" />
       <item value="三角形" />
       <item value="advisor" />
@@ -48,14 +51,11 @@
       <item value="parse Pending" />
       <item value="parse Pending Result Maps" />
       <item value="apply Current Namespace" />
-      <item value="add Mapped Statement" />
-      <item value="builder Assistant" />
-      <item value="Assistant" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="187" />
-        <entry key="ENGLISH" value="188" />
+        <entry key="CHINESE" value="190" />
+        <entry key="ENGLISH" value="191" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
         <entry key="ESTONIAN" value="1" />
