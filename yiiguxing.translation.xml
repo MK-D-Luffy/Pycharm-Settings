@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Usable Direction" />
       <item value="get Random" />
       <item value="Combo Box" />
       <item value="switch" />
@@ -50,12 +51,11 @@
       <item value="qualifier" />
       <item value="description" />
       <item value="Routing Statement Handler" />
-      <item value="Bound Sql" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="215" />
-        <entry key="ENGLISH" value="216" />
+        <entry key="CHINESE" value="216" />
+        <entry key="ENGLISH" value="217" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
         <entry key="ESTONIAN" value="1" />
