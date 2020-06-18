@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="push" />
+      <item value="pop" />
+      <item value="peek" />
+      <item value="Grid" />
       <item value="* Indicate whether subclass-based (CGLIB) proxies are to be created as opposed * to standard Java interface-based proxies. The default is {@code false}." />
       <item value="expose Proxy" />
       <item value="Bean Not Of Required Type Exception" />
@@ -47,15 +51,11 @@
       <item value="compute If Absent" />
       <item value="private Lookup In Method" />
       <item value="Concurrent Hash Map" />
-      <item value="mapper Registry" />
-      <item value="Error Context" />
-      <item value="plugin" />
-      <item value="plugin All" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="197" />
-        <entry key="ENGLISH" value="198" />
+        <entry key="CHINESE" value="202" />
+        <entry key="ENGLISH" value="203" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
         <entry key="ESTONIAN" value="1" />
