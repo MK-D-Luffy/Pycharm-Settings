@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Combo Box" />
+      <item value="switch" />
+      <item value="row" />
+      <item value="column" />
+      <item value="Sequential Transition" />
+      <item value="ORTHOGONAL TO TANGENT" />
+      <item value="Orientation Type" />
+      <item value="last" />
+      <item value="set Disable" />
+      <item value="Path Transition" />
+      <item value="set Duration" />
       <item value="push" />
       <item value="pop" />
       <item value="peek" />
@@ -40,22 +51,11 @@
       <item value="Routing Statement Handler" />
       <item value="Bound Sql" />
       <item value="row Bounds" />
-      <item value="convert Args To Sql Command Param" />
-      <item value="// Popular vote was to return null on 0 results and throw exception on too many." />
-      <item value="returns Cursor" />
-      <item value="Cursor" />
-      <item value="wrap" />
-      <item value="row Count Result" />
-      <item value="volatile" />
-      <item value="Caller Sensitive" />
-      <item value="compute If Absent" />
-      <item value="private Lookup In Method" />
-      <item value="Concurrent Hash Map" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="202" />
-        <entry key="ENGLISH" value="203" />
+        <entry key="CHINESE" value="214" />
+        <entry key="ENGLISH" value="215" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
         <entry key="ESTONIAN" value="1" />
