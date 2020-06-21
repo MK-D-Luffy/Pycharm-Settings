@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Etched Border" />
+      <item value="Prompt" />
       <item value="applicationcontext" />
       <item value="Unsatisfied Dependency Exception" />
       <item value="Dispatcher Servlet" />
@@ -49,13 +51,11 @@
       <item value="Autowired" />
       <item value="Qualifier" />
       <item value="No Unique Bean Definition Exception" />
-      <item value="entry" />
-      <item value="Bean Definition Parsing Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="220" />
-        <entry key="ENGLISH" value="221" />
+        <entry key="CHINESE" value="222" />
+        <entry key="ENGLISH" value="223" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
         <entry key="ESTONIAN" value="1" />
