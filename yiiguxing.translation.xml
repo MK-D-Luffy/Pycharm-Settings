@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="peek" />
       <item value="set Spacing" />
       <item value="pop" />
       <item value="Border Pane" />
@@ -34,7 +35,6 @@
       <item value="Path Transition" />
       <item value="set Duration" />
       <item value="push" />
-      <item value="peek" />
       <item value="Grid" />
       <item value="* Indicate whether subclass-based (CGLIB) proxies are to be created as opposed * to standard Java interface-based proxies. The default is {@code false}." />
       <item value="expose Proxy" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="232" />
-        <entry key="ENGLISH" value="233" />
+        <entry key="CHINESE" value="233" />
+        <entry key="ENGLISH" value="234" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
         <entry key="ESTONIAN" value="1" />
