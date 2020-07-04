@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="force Request Encoding" />
       <item value="scratches" />
       <item value="Path Transition" />
       <item value="ORTHOGONAL TO TANGENT" />
@@ -50,12 +51,11 @@
       <item value="CHORD" />
       <item value="The closure type for an arc closed by drawing straight line segments * from the start of the arc segment to the center of the full ellipse * and from that point to the end of the arc segment." />
       <item value="Geometric Object" />
-      <item value="三角形" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="240" />
-        <entry key="ENGLISH" value="241" />
+        <entry key="CHINESE" value="241" />
+        <entry key="ENGLISH" value="242" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
         <entry key="ESTONIAN" value="1" />
