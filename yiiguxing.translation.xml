@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Execute invoke Handler Method in synchronized block if required." />
+      <item value="Execute invokeHandlerMethod in synchronized block if required." />
+      <item value="No synchronization on session demanded at all..." />
+      <item value="No HttpSession available -&gt; no mutex necessary" />
+      <item value="handle Internal" />
       <item value="render" />
       <item value="trigger After Completion" />
       <item value="process Dispatch Result" />
@@ -46,16 +51,11 @@
       <item value="push" />
       <item value="Grid" />
       <item value="* Indicate whether subclass-based (CGLIB) proxies are to be created as opposed * to standard Java interface-based proxies. The default is {@code false}." />
-      <item value="expose Proxy" />
-      <item value="Bean Not Of Required Type Exception" />
-      <item value="coder" />
-      <item value="The identifier of the encoding used to encode the bytes in * {@code value}. The supported values in this implementation are" />
-      <item value="* Compares this string to the specified object. The result is {@code * true} if and only if the argument is not {@code null} and is a {@code * String} object that represents the same sequence of characters as this * object." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="247" />
-        <entry key="ENGLISH" value="248" />
+        <entry key="CHINESE" value="252" />
+        <entry key="ENGLISH" value="252" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
         <entry key="ESTONIAN" value="1" />
