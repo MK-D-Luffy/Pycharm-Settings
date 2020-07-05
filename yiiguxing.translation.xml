@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Locale" />
+      <item value="mutex" />
       <item value="Execute invoke Handler Method in synchronized block if required." />
       <item value="Execute invokeHandlerMethod in synchronized block if required." />
       <item value="No synchronization on session demanded at all..." />
@@ -49,13 +51,11 @@
       <item value="set Disable" />
       <item value="set Duration" />
       <item value="push" />
-      <item value="Grid" />
-      <item value="* Indicate whether subclass-based (CGLIB) proxies are to be created as opposed * to standard Java interface-based proxies. The default is {@code false}." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="252" />
-        <entry key="ENGLISH" value="252" />
+        <entry key="CHINESE" value="253" />
+        <entry key="ENGLISH" value="254" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
         <entry key="ESTONIAN" value="1" />
@@ -70,6 +70,7 @@
         <entry key="MARATHI" value="1" />
         <entry key="BENGALI" value="1" />
         <entry key="IGBO" value="1" />
+        <entry key="ITALIAN" value="2" />
         <entry key="VIETNAMESE" value="4" />
       </map>
     </option>
