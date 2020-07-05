@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Expose helpers as request attributes, if any." />
+      <item value="Expose the model object as request attributes." />
+      <item value="get Model Internal" />
+      <item value="Ask the subclass to create the View object." />
       <item value="Locale" />
       <item value="mutex" />
       <item value="Execute invoke Handler Method in synchronized block if required." />
@@ -47,15 +51,11 @@
       <item value="row" />
       <item value="column" />
       <item value="Orientation Type" />
-      <item value="last" />
-      <item value="set Disable" />
-      <item value="set Duration" />
-      <item value="push" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="253" />
-        <entry key="ENGLISH" value="254" />
+        <entry key="CHINESE" value="257" />
+        <entry key="ENGLISH" value="258" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
         <entry key="ESTONIAN" value="1" />
