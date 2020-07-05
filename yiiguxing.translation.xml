@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="process Dispatch Result" />
+      <item value="// As of 4.3, we're processing Errors thrown from handler methods as well, // making them available for @ExceptionHandler methods and other scenarios." />
+      <item value="// Process last-modified header, if supported by the handler." />
       <item value="force Request Encoding" />
       <item value="scratches" />
       <item value="Path Transition" />
@@ -48,14 +51,11 @@
       <item value="* Compares this string to the specified object. The result is {@code * true} if and only if the argument is not {@code null} and is a {@code * String} object that represents the same sequence of characters as this * object." />
       <item value="String Latin 1" />
       <item value="ROUND" />
-      <item value="CHORD" />
-      <item value="The closure type for an arc closed by drawing straight line segments * from the start of the arc segment to the center of the full ellipse * and from that point to the end of the arc segment." />
-      <item value="Geometric Object" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="241" />
-        <entry key="ENGLISH" value="242" />
+        <entry key="CHINESE" value="244" />
+        <entry key="ENGLISH" value="245" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
         <entry key="ESTONIAN" value="1" />
