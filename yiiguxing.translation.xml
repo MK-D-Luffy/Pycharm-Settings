@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Resovler File Name" />
       <item value="set Data Binder Factory" />
       <item value="set Parameter Name Discoverer" />
       <item value="synchronize On Session" />
@@ -50,12 +51,11 @@
       <item value="Dispatcher Servlet" />
       <item value="webxml attribute is required (or pre-existing WEB-INF/web.xml if executing in update mode)" />
       <item value="set Usable Direction" />
-      <item value="get Random" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="263" />
-        <entry key="ENGLISH" value="264" />
+        <entry key="CHINESE" value="264" />
+        <entry key="ENGLISH" value="265" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
         <entry key="ESTONIAN" value="1" />
