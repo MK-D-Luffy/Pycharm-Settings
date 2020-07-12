@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="toggle" />
       <item value="Mock Mvc" />
       <item value="Resovler File Name" />
       <item value="set Data Binder Factory" />
@@ -50,12 +51,11 @@
       <item value="applicationcontext" />
       <item value="Unsatisfied Dependency Exception" />
       <item value="Dispatcher Servlet" />
-      <item value="webxml attribute is required (or pre-existing WEB-INF/web.xml if executing in update mode)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="265" />
-        <entry key="ENGLISH" value="266" />
+        <entry key="CHINESE" value="266" />
+        <entry key="ENGLISH" value="267" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
         <entry key="ESTONIAN" value="1" />
