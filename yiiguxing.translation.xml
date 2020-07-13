@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Media" />
+      <item value="is Content Type Preset" />
+      <item value="producible Types" />
       <item value="required" />
       <item value="toggle" />
       <item value="Mock Mvc" />
@@ -48,14 +51,11 @@
       <item value="SANS SERIF" />
       <item value="PLAIN" />
       <item value="Etched Border" />
-      <item value="Prompt" />
-      <item value="applicationcontext" />
-      <item value="Unsatisfied Dependency Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="267" />
-        <entry key="ENGLISH" value="268" />
+        <entry key="CHINESE" value="270" />
+        <entry key="ENGLISH" value="271" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
         <entry key="ESTONIAN" value="1" />
