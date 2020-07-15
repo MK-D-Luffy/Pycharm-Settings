@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="aria" />
+      <item value="aria-hidden" />
       <item value="Media" />
       <item value="is Content Type Preset" />
       <item value="producible Types" />
@@ -49,13 +51,11 @@
       <item value="spinner" />
       <item value="J Spinner" />
       <item value="SANS SERIF" />
-      <item value="PLAIN" />
-      <item value="Etched Border" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="270" />
-        <entry key="ENGLISH" value="271" />
+        <entry key="CHINESE" value="272" />
+        <entry key="ENGLISH" value="272" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
         <entry key="ESTONIAN" value="1" />
@@ -70,7 +70,7 @@
         <entry key="MARATHI" value="1" />
         <entry key="BENGALI" value="1" />
         <entry key="IGBO" value="1" />
-        <entry key="ITALIAN" value="2" />
+        <entry key="ITALIAN" value="4" />
         <entry key="VIETNAMESE" value="4" />
       </map>
     </option>
