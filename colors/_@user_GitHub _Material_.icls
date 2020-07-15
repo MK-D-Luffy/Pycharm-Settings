@@ -4,7 +4,7 @@
     <property name="created">2020-03-08T11:22:39</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.3.3.0.0</property>
-    <property name="modified">2020-07-08T07:18:33</property>
+    <property name="modified">2020-07-15T10:00:33</property>
     <property name="originalScheme">GitHub (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -845,9 +845,21 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="JS.BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="287d2c" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="JS.CONSOLE">
       <value>
         <option name="FOREGROUND" value="6f42c1" />
+      </value>
+    </option>
+    <option name="JS.DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="287d2c" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JS.GLOBAL_FUNCTION">
@@ -869,6 +881,12 @@
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
       <value>
         <option name="FOREGROUND" value="24292e" />
+      </value>
+    </option>
+    <option name="JS.LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="3c7d34" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JS.LOCAL_VARIABLE">
