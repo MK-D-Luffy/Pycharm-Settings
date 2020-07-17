@@ -2,6 +2,7 @@
   <component name="MyBatisCodeHelper">
     <option name="profile">
       <Profile>
+        <option name="usageCount" value="6" />
         <option name="userMacSet">
           <set>
             <option value="E8-6A-64-20-EC-36" />
