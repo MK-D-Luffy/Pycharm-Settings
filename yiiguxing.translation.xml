@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="operation Result" />
       <item value="order By Clause" />
       <item value="Access Forbidden Exception" />
       <item value="redirect" />
@@ -50,12 +51,11 @@
       <item value="// As of 4.3, we're processing Errors thrown from handler methods as well, // making them available for @ExceptionHandler methods and other scenarios." />
       <item value="// Process last-modified header, if supported by the handler." />
       <item value="force Request Encoding" />
-      <item value="scratches" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="288" />
-        <entry key="ENGLISH" value="289" />
+        <entry key="CHINESE" value="289" />
+        <entry key="ENGLISH" value="290" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="AMHARIC" value="1" />
