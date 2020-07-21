@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Content Type" />
+      <item value="context Type" />
+      <item value="content Type" />
       <item value="INTEGER" />
       <item value="operation Result" />
       <item value="order By Clause" />
@@ -48,14 +51,11 @@
       <item value="handle Internal" />
       <item value="render" />
       <item value="trigger After Completion" />
-      <item value="process Dispatch Result" />
-      <item value="// As of 4.3, we're processing Errors thrown from handler methods as well, // making them available for @ExceptionHandler methods and other scenarios." />
-      <item value="// Process last-modified header, if supported by the handler." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="290" />
-        <entry key="ENGLISH" value="291" />
+        <entry key="CHINESE" value="294" />
+        <entry key="ENGLISH" value="295" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="AMHARIC" value="1" />
