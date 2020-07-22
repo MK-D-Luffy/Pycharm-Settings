@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="authenticated" />
       <item value="// Fetch Spring root application context and initialize the delegate early, // if possible. If the root application context will be started after this // filter proxy, we'll have to resort to lazy initialization." />
       <item value="Servlet Context" />
       <item value="find Web Application Context" />
@@ -50,12 +51,11 @@
       <item value="Ask the subclass to create the View object." />
       <item value="Locale" />
       <item value="mutex" />
-      <item value="Execute invoke Handler Method in synchronized block if required." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="300" />
-        <entry key="ENGLISH" value="301" />
+        <entry key="CHINESE" value="301" />
+        <entry key="ENGLISH" value="302" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="AMHARIC" value="1" />
