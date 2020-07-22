@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="// Fetch Spring root application context and initialize the delegate early, // if possible. If the root application context will be started after this // filter proxy, we'll have to resort to lazy initialization." />
+      <item value="Servlet Context" />
+      <item value="find Web Application Context" />
+      <item value="Web Application Context" />
+      <item value="init Filter Bean" />
       <item value="Content Type" />
       <item value="context Type" />
       <item value="content Type" />
@@ -46,16 +51,11 @@
       <item value="Locale" />
       <item value="mutex" />
       <item value="Execute invoke Handler Method in synchronized block if required." />
-      <item value="No synchronization on session demanded at all..." />
-      <item value="No HttpSession available -&gt; no mutex necessary" />
-      <item value="handle Internal" />
-      <item value="render" />
-      <item value="trigger After Completion" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="294" />
-        <entry key="ENGLISH" value="295" />
+        <entry key="CHINESE" value="300" />
+        <entry key="ENGLISH" value="301" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="AMHARIC" value="1" />
