@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Annotated Type Metadata" />
+      <item value="await" />
       <item value="metadataReader the metadata reader for the target class" />
       <item value="Functional Interface" />
       <item value="ASSIGNABLE TYPE" />
@@ -49,13 +51,11 @@
       <item value="is Content Type Preset" />
       <item value="producible Types" />
       <item value="required" />
-      <item value="toggle" />
-      <item value="Mock Mvc" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="315" />
-        <entry key="ENGLISH" value="316" />
+        <entry key="CHINESE" value="318" />
+        <entry key="ENGLISH" value="319" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="AMHARIC" value="1" />
