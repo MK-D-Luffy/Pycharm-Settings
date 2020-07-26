@@ -1,6 +1,29 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="see" />
+      <item value="set Autowired Annotation Type" />
+      <item value="Instantiation Aware Bean Post Processor Adapter" />
+      <item value="invoke Aware Methods" />
+      <item value="apply Bean Post Processors Before Initialization" />
+      <item value="invoke Init Methods" />
+      <item value="Implementation" />
+      <item value="Smart Initializing Singleton" />
+      <item value="pre" />
+      <item value="pre Instantiating Singletons" />
+      <item value="pre Instantiate Singletons" />
+      <item value="get Environment" />
+      <item value="resolve Placeholders" />
+      <item value="add Embedded Value Resolver" />
+      <item value="set Temp Class Loader" />
+      <item value="freeze Configuration" />
+      <item value="Instantiate" />
+      <item value="Instantiate all remaining (non-lazy-init) singletons." />
+      <item value="Configurable Listable Bean Factory" />
+      <item value="Prepare this context for refreshing, setting its startup date and * active flag as well as performing any initialization of property sources." />
+      <item value="Prepare this context for refreshing." />
+      <item value="finish Bean Factory Initialization" />
+      <item value="refresh" />
       <item value="Bean Post Processor" />
       <item value="after Properties Set" />
       <item value="Initializing Bean" />
@@ -28,34 +51,11 @@
       <item value="Web Application Context" />
       <item value="init Filter Bean" />
       <item value="Content Type" />
-      <item value="context Type" />
-      <item value="content Type" />
-      <item value="INTEGER" />
-      <item value="operation Result" />
-      <item value="order By Clause" />
-      <item value="Access Forbidden Exception" />
-      <item value="redirect" />
-      <item value="redircet" />
-      <item value="forbidd" />
-      <item value="FORBIDEN" />
-      <item value="MESSAGE ACCESS FORBIDEN" />
-      <item value="deregistering SqlSession" />
-      <item value="Transaction synchronization deregistering SqlSession" />
-      <item value="synchronization deregistering SqlSession" />
-      <item value="Default Listable Bean Factory" />
-      <item value="manual commit" />
-      <item value="deregistering" />
-      <item value="sql Session Factory" />
-      <item value="Please verify you invoked Maven from the correct directory" />
-      <item value="insert Selective" />
-      <item value="Criteria" />
-      <item value="ored Criteria" />
-      <item value="aria" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="323" />
-        <entry key="ENGLISH" value="324" />
+        <entry key="CHINESE" value="344" />
+        <entry key="ENGLISH" value="345" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="AMHARIC" value="1" />
@@ -72,6 +72,7 @@
         <entry key="MALAGASY" value="1" />
         <entry key="MARATHI" value="1" />
         <entry key="BENGALI" value="1" />
+        <entry key="SLOVAK" value="1" />
         <entry key="IGBO" value="1" />
         <entry key="ITALIAN" value="4" />
         <entry key="VIETNAMESE" value="4" />
