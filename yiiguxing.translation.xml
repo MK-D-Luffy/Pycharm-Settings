@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="after Properties Set" />
+      <item value="Initializing Bean" />
+      <item value="Disposable Bean" />
       <item value="Predicate" />
       <item value="Annotated Type Metadata" />
       <item value="await" />
@@ -48,14 +51,11 @@
       <item value="ored Criteria" />
       <item value="aria" />
       <item value="aria-hidden" />
-      <item value="Media" />
-      <item value="is Content Type Preset" />
-      <item value="producible Types" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="319" />
-        <entry key="ENGLISH" value="320" />
+        <entry key="CHINESE" value="322" />
+        <entry key="ENGLISH" value="323" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="AMHARIC" value="1" />
