@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Bean Post Processor" />
       <item value="after Properties Set" />
       <item value="Initializing Bean" />
       <item value="Disposable Bean" />
@@ -50,12 +51,11 @@
       <item value="Criteria" />
       <item value="ored Criteria" />
       <item value="aria" />
-      <item value="aria-hidden" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="322" />
-        <entry key="ENGLISH" value="323" />
+        <entry key="CHINESE" value="323" />
+        <entry key="ENGLISH" value="324" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="AMHARIC" value="1" />
