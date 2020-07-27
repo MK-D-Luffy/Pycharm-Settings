@@ -1,13 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Bean Definition Registry Post Processor" />
+      <item value="invoke Bean Factory Post Processors" />
+      <item value="Modify the application context's internal bean definition registry after its * standard initialization. All regular bean definitions will have been loaded, * but no beans will have been instantiated yet. This allows for adding further * bean definitions before the next post-processing phase kicks in." />
+      <item value="Modify the application context's internal bean factory after its standard * initialization. All bean definitions will have been loaded, but no beans * will have been instantiated yet. This allows for overriding or adding * properties even to eager-initializing beans." />
+      <item value="pre Instantiate Singletons" />
       <item value="Invoke factory processors registered as beans in the context." />
       <item value="Simple Jndi Bean Factory" />
       <item value="Groovy Web Application Context" />
       <item value="config Locations" />
       <item value="Annotation Aware Aspect J Auto Proxy Creator" />
       <item value="Aspect J Auto Proxy Registrar" />
-      <item value="invoke Bean Factory Post Processors" />
       <item value="get Early Bean Reference" />
       <item value="synchronized" />
       <item value="get Wrapped Instance" />
@@ -44,18 +48,14 @@
       <item value="Smart Initializing Singleton" />
       <item value="pre" />
       <item value="pre Instantiating Singletons" />
-      <item value="pre Instantiate Singletons" />
       <item value="get Environment" />
       <item value="resolve Placeholders" />
       <item value="add Embedded Value Resolver" />
-      <item value="set Temp Class Loader" />
-      <item value="freeze Configuration" />
-      <item value="Instantiate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="379" />
-        <entry key="ENGLISH" value="380" />
+        <entry key="CHINESE" value="386" />
+        <entry key="ENGLISH" value="387" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="AMHARIC" value="1" />
