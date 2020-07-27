@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ROLE INFRASTRUCTURE" />
+      <item value="apc Definition" />
+      <item value="contains Bean Definition" />
+      <item value="internal Auto Proxy Creator" />
+      <item value="register Aspect J Annotation Auto Proxy Creator If Necessary" />
+      <item value="Import Bean Definition Registrar" />
       <item value="shutdown Hook" />
       <item value="Configurable Listable Bean Factory" />
       <item value="set Embedded Value Resolver" />
@@ -45,17 +51,11 @@
       <item value="ASSIGNABLE TYPE" />
       <item value="Malformed URL Exception" />
       <item value="jarmode" />
-      <item value="Portal Handler" />
-      <item value="eureka" />
-      <item value="abbr" />
-      <item value="fragment" />
-      <item value="Principal" />
-      <item value="raw" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="356" />
-        <entry key="ENGLISH" value="357" />
+        <entry key="CHINESE" value="362" />
+        <entry key="ENGLISH" value="363" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="AMHARIC" value="1" />
