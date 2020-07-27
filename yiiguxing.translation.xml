@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Groovy Web Application Context" />
+      <item value="config Locations" />
       <item value="Annotation Aware Aspect J Auto Proxy Creator" />
       <item value="Aspect J Auto Proxy Registrar" />
       <item value="invoke Bean Factory Post Processors" />
@@ -49,13 +51,11 @@
       <item value="Instantiate" />
       <item value="Instantiate all remaining (non-lazy-init) singletons." />
       <item value="Prepare this context for refreshing, setting its startup date and * active flag as well as performing any initialization of property sources." />
-      <item value="Prepare this context for refreshing." />
-      <item value="finish Bean Factory Initialization" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="376" />
-        <entry key="ENGLISH" value="377" />
+        <entry key="CHINESE" value="377" />
+        <entry key="ENGLISH" value="378" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="AMHARIC" value="1" />
