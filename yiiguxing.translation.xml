@@ -1,8 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="determine Target Type" />
+      <item value="instantiate Using Factory Method" />
       <item value="Give BeanPostProcessors a chance to return a proxy instead of the target bean instance." />
+      <item value="resolve Before Instantiation" />
+      <item value="determine Target Type" />
       <item value="check Merged Bean Definition" />
       <item value="get Merged Local Bean Definition" />
       <item value="* Return the bean names that this bean depends on." />
@@ -49,13 +51,11 @@
       <item value="synchronized" />
       <item value="get Wrapped Instance" />
       <item value="Return an instance, which may be shared or independent, of the specified bean." />
-      <item value="do Privileged" />
-      <item value="get Security Manager" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="422" />
-        <entry key="ENGLISH" value="423" />
+        <entry key="CHINESE" value="425" />
+        <entry key="ENGLISH" value="426" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="AMHARIC" value="1" />
