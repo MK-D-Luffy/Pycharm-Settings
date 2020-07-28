@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Feature" />
+      <item value="Web Service Feature Annotation" />
       <item value="Propagate refresh to lifecycle processor first." />
       <item value="Participate in LiveBeansView MBean, if active." />
       <item value="clear Resource Caches" />
@@ -49,13 +51,11 @@
       <item value="Simple Jndi Bean Factory" />
       <item value="Groovy Web Application Context" />
       <item value="config Locations" />
-      <item value="Annotation Aware Aspect J Auto Proxy Creator" />
-      <item value="Aspect J Auto Proxy Registrar" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="429" />
-        <entry key="ENGLISH" value="430" />
+        <entry key="CHINESE" value="431" />
+        <entry key="ENGLISH" value="432" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="AMHARIC" value="1" />
