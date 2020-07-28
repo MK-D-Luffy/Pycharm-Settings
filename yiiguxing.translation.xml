@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Invoked right at the end of the singleton pre-instantiation phase, * with a guarantee that all regular singleton beans have been created * already. {@link ListableBeanFactory#getBeansOfType} calls within * this method won't trigger accidental side effects during bootstrap. * &lt;p&gt;&lt;b&gt;NOTE:&lt;/b&gt; This callback won't be triggered for singleton beans * lazily initialized on demand after {@link BeanFactory} bootstrap, * and not for any other bean scope either. Carefully use it for beans * with the intended bootstrap semantics only." />
       <item value="Invoke the given listener with the given event." />
       <item value="Allows post-processing of the bean factory in context subclasses." />
       <item value="Concurrent Hash Map" />
@@ -50,12 +51,11 @@
       <item value="invoke Aware Methods" />
       <item value="apply Bean Post Processors Before Initialization" />
       <item value="invoke Init Methods" />
-      <item value="Implementation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="394" />
-        <entry key="ENGLISH" value="395" />
+        <entry key="CHINESE" value="395" />
+        <entry key="ENGLISH" value="396" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="AMHARIC" value="1" />
