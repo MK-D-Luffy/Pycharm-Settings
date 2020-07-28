@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Invoke the given listener with the given event." />
       <item value="Allows post-processing of the bean factory in context subclasses." />
       <item value="Concurrent Hash Map" />
       <item value="Are dependencies to be injected via convention-based autowiring by name or type? * &lt;p&gt;Note that this autowire mode is just about externally driven autowiring based * on bean property setter methods by convention, analogous to XML bean definitions. * &lt;p&gt;The default mode does allow for annotation-driven autowiring. &quot;no&quot; refers to * externally driven autowiring only, not affecting any autowiring demands that the * bean class itself expresses through annotations." />
@@ -50,12 +51,11 @@
       <item value="apply Bean Post Processors Before Initialization" />
       <item value="invoke Init Methods" />
       <item value="Implementation" />
-      <item value="Smart Initializing Singleton" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="392" />
-        <entry key="ENGLISH" value="393" />
+        <entry key="CHINESE" value="394" />
+        <entry key="ENGLISH" value="395" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="AMHARIC" value="1" />
