@@ -1,6 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Eagerly check singleton cache for manually registered singletons." />
+      <item value="canonical Name" />
+      <item value="transformed Bean Name" />
+      <item value="pre " />
+      <item value="pre Instantiating Singletons" />
+      <item value="pre Instantiate Singletons" />
+      <item value="multicast Event" />
+      <item value="Publish early application events now that we finally have a multicaster..." />
+      <item value="Initialize other special beans in specific context subclasses." />
+      <item value="application Event Multicaster" />
+      <item value="Try to resolve the message. Return default message if no message was found. * @param code the message code to look up, e.g. 'calculator.noRateSet'. * MessageSource users are encouraged to base message names on qualified class * or package names, avoiding potential conflicts and ensuring maximum clarity. * @param args an array of arguments that will be filled in for params within * the message (params look like &quot;{0}&quot;, &quot;{1,date}&quot;, &quot;{2,time}&quot; within a message), * or {@code null} if none" />
+      <item value="init Message Source" />
+      <item value="Merged Bean Definition Post Processor" />
+      <item value="Application Listener Detector" />
       <item value="Invoke factory processors registered as beans in the context." />
       <item value="Modify the application context's internal bean definition registry after its * standard initialization. All regular bean definitions will have been loaded, * but no beans will have been instantiated yet. This allows for adding further * bean definitions before the next post-processing phase kicks in." />
       <item value="post Process Bean Definition Registry" />
@@ -19,7 +33,6 @@
       <item value="Bean Definition Registry Post Processor" />
       <item value="invoke Bean Factory Post Processors" />
       <item value="Modify the application context's internal bean factory after its standard * initialization. All bean definitions will have been loaded, but no beans * will have been instantiated yet. This allows for overriding or adding * properties even to eager-initializing beans." />
-      <item value="pre Instantiate Singletons" />
       <item value="Simple Jndi Bean Factory" />
       <item value="Groovy Web Application Context" />
       <item value="config Locations" />
@@ -32,49 +45,41 @@
       <item value="do Privileged" />
       <item value="get Security Manager" />
       <item value="/ Re-register post-processor for detecting inner beans as ApplicationListeners, // moving it to the end of the processor chain (for picking up proxies etc)." />
-      <item value="Merged Bean Definition Post Processor" />
       <item value="priority Ordered Post Processors" />
       <item value="Bean Post Processor Checker" />
       <item value="ROLE INFRASTRUCTURE" />
       <item value="apc Definition" />
       <item value="contains Bean Definition" />
       <item value="internal Auto Proxy Creator" />
-      <item value="register Aspect J Annotation Auto Proxy Creator If Necessary" />
-      <item value="Import Bean Definition Registrar" />
-      <item value="shutdown Hook" />
-      <item value="Configurable Listable Bean Factory" />
-      <item value="set Embedded Value Resolver" />
-      <item value="Embedded Value Resolver Aware" />
-      <item value="populate Bean" />
-      <item value="Servlet Context Aware" />
-      <item value="cast" />
-      <item value="is Trace Enabled" />
-      <item value="Root Bean Definition" />
-      <item value="Import Selector" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="403" />
-        <entry key="ENGLISH" value="404" />
-        <entry key="CHINESE_TRADITIONAL" value="1" />
+        <entry key="CHINESE" value="415" />
+        <entry key="ENGLISH" value="416" />
+        <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="AMHARIC" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BULGARIAN" value="1" />
-        <entry key="ICELANDIC" value="1" />
+        <entry key="ICELANDIC" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="KAZAKH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
+        <entry key="DUTCH" value="1" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="3" />
         <entry key="MALAGASY" value="1" />
         <entry key="MARATHI" value="1" />
         <entry key="BENGALI" value="1" />
+        <entry key="HMONG" value="1" />
+        <entry key="JAPANESE" value="1" />
         <entry key="SLOVAK" value="1" />
-        <entry key="IGBO" value="1" />
-        <entry key="ITALIAN" value="4" />
+        <entry key="UKRAINIAN" value="1" />
+        <entry key="IGBO" value="2" />
+        <entry key="ITALIAN" value="5" />
+        <entry key="INDONESIAN" value="1" />
         <entry key="VIETNAMESE" value="4" />
       </map>
     </option>
