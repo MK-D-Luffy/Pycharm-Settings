@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Invoke factory processors registered as beans in the context." />
       <item value="Modify the application context's internal bean definition registry after its * standard initialization. All regular bean definitions will have been loaded, * but no beans will have been instantiated yet. This allows for adding further * bean definitions before the next post-processing phase kicks in." />
       <item value="post Process Bean Definition Registry" />
       <item value="registry Processors" />
@@ -14,7 +15,6 @@
       <item value="Concurrent Hash Map" />
       <item value="Are dependencies to be injected via convention-based autowiring by name or type? * &lt;p&gt;Note that this autowire mode is just about externally driven autowiring based * on bean property setter methods by convention, analogous to XML bean definitions. * &lt;p&gt;The default mode does allow for annotation-driven autowiring. &quot;no&quot; refers to * externally driven autowiring only, not affecting any autowiring demands that the * bean class itself expresses through annotations." />
       <item value="Is this bean a candidate for getting autowired into some other bean? * &lt;p&gt;Default is {@code true}; set this to {@code false} for internal delegates * that are not meant to get in the way of beans of the same type in other places." />
-      <item value="Invoke factory processors registered as beans in the context." />
       <item value="check Configuration Class Candidate" />
       <item value="Bean Definition Registry Post Processor" />
       <item value="invoke Bean Factory Post Processors" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="402" />
-        <entry key="ENGLISH" value="403" />
+        <entry key="CHINESE" value="403" />
+        <entry key="ENGLISH" value="404" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="AMHARIC" value="1" />
