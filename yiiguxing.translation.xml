@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="register Infrastructure Beans" />
       <item value="Exclusions:" />
       <item value="Unconditional classes:" />
       <item value="CONDITIONS EVALUATION REPORT" />
@@ -50,12 +51,11 @@
       <item value="Modify the application context's internal bean definition registry after its * standard initialization. All regular bean definitions will have been loaded, * but no beans will have been instantiated yet. This allows for adding further * bean definitions before the next post-processing phase kicks in." />
       <item value="post Process Bean Definition Registry" />
       <item value="registry Processors" />
-      <item value="regular Post Processors" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="448" />
-        <entry key="ENGLISH" value="449" />
+        <entry key="CHINESE" value="449" />
+        <entry key="ENGLISH" value="450" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="AMHARIC" value="1" />
