@@ -1,8 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Spring Factories Loader" />
       <item value="get Candidate Configurations" />
+      <item value="Registrar" />
+      <item value="Auto Configuration Packages" />
+      <item value="proxy Bean Methods" />
+      <item value="Cassandra A" />
+      <item value="Spring Factories Loader" />
       <item value="Deferred Import Selector" />
       <item value="Auto Configuration Import Selector" />
       <item value="profiles" />
@@ -47,15 +51,11 @@
       <item value="Invoked right at the end of the singleton pre-instantiation phase, * with a guarantee that all regular singleton beans have been created * already. {@link ListableBeanFactory#getBeansOfType} calls within * this method won't trigger accidental side effects during bootstrap. * &lt;p&gt;&lt;b&gt;NOTE:&lt;/b&gt; This callback won't be triggered for singleton beans * lazily initialized on demand after {@link BeanFactory} bootstrap, * and not for any other bean scope either. Carefully use it for beans * with the intended bootstrap semantics only." />
       <item value="Invoke the given listener with the given event." />
       <item value="Allows post-processing of the bean factory in context subclasses." />
-      <item value="Concurrent Hash Map" />
-      <item value="Are dependencies to be injected via convention-based autowiring by name or type? * &lt;p&gt;Note that this autowire mode is just about externally driven autowiring based * on bean property setter methods by convention, analogous to XML bean definitions. * &lt;p&gt;The default mode does allow for annotation-driven autowiring. &quot;no&quot; refers to * externally driven autowiring only, not affecting any autowiring demands that the * bean class itself expresses through annotations." />
-      <item value="Is this bean a candidate for getting autowired into some other bean? * &lt;p&gt;Default is {@code true}; set this to {@code false} for internal delegates * that are not meant to get in the way of beans of the same type in other places." />
-      <item value="check Configuration Class Candidate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="437" />
-        <entry key="ENGLISH" value="438" />
+        <entry key="CHINESE" value="442" />
+        <entry key="ENGLISH" value="443" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="AMHARIC" value="1" />
