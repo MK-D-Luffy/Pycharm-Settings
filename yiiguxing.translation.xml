@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Path represents URL or has &quot;url:&quot; prefix:" />
       <item value="{@link WebMvcConfigurer} has default methods (made * possible by a Java 8 baseline) and can be implemented directly without the * need for this adapter" />
       <item value="Duration" />
       <item value="Mvc Uri Components Builder" />
@@ -50,12 +51,11 @@
       <item value="Try to resolve the message. Return default message if no message was found. * @param code the message code to look up, e.g. 'calculator.noRateSet'. * MessageSource users are encouraged to base message names on qualified class * or package names, avoiding potential conflicts and ensuring maximum clarity. * @param args an array of arguments that will be filled in for params within * the message (params look like &quot;{0}&quot;, &quot;{1,date}&quot;, &quot;{2,time}&quot; within a message), * or {@code null} if none" />
       <item value="init Message Source" />
       <item value="Merged Bean Definition Post Processor" />
-      <item value="Application Listener Detector" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="453" />
-        <entry key="ENGLISH" value="454" />
+        <entry key="CHINESE" value="454" />
+        <entry key="ENGLISH" value="455" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="AMHARIC" value="1" />
