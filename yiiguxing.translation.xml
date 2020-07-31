@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Preserve Error Controller Target Class Post Processor" />
       <item value="include Stack Trace" />
       <item value="Include the stack trace attribute." />
       <item value="unmodifiable Map" />
@@ -50,12 +51,11 @@
       <item value="Hierarchical Bean Factory" />
       <item value="// Check if bean definition exists in this factory." />
       <item value="Eagerly check singleton cache for manually registered singletons." />
-      <item value="canonical Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="465" />
-        <entry key="ENGLISH" value="466" />
+        <entry key="CHINESE" value="466" />
+        <entry key="ENGLISH" value="467" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="AMHARIC" value="1" />
