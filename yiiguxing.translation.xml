@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Factory interface that can be used to create a {@link WebServer}." />
+      <item value="Strategy interface for customizing {@link WebServerFactory web server factories}. Any * beans of this type will get a callback with the server factory before the server itself * is started, so you can set the port, address, error pages etc." />
+      <item value="for embedded servlet and reactive * web servers customizations." />
+      <item value="for embedded servlet and reactive" />
+      <item value="Nested configuration if Undertow is being used." />
+      <item value="Nested configuration if Jetty is being used." />
+      <item value="Nested configuration if Tomcat is being used." />
+      <item value="Nested configuration if Netty is being used." />
+      <item value="Upgrade Protocol" />
+      <item value="Nested" />
       <item value="Resolve any specific error views. By default this method delegates to" />
       <item value="Whitelabel" />
       <item value="Preserve Error Controller Target Class Post Processor" />
@@ -41,21 +51,11 @@
       <item value="Web Service Feature Annotation" />
       <item value="Propagate refresh to lifecycle processor first." />
       <item value="Participate in LiveBeansView MBean, if active." />
-      <item value="clear Resource Caches" />
-      <item value="after Singletons Instantiated" />
-      <item value="instantiate Using Factory Method" />
-      <item value="Give BeanPostProcessors a chance to return a proxy instead of the target bean instance." />
-      <item value="resolve Before Instantiation" />
-      <item value="determine Target Type" />
-      <item value="check Merged Bean Definition" />
-      <item value="get Merged Local Bean Definition" />
-      <item value="* Return the bean names that this bean depends on." />
-      <item value="Hierarchical Bean Factory" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="468" />
-        <entry key="ENGLISH" value="469" />
+        <entry key="CHINESE" value="480" />
+        <entry key="ENGLISH" value="481" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="AMHARIC" value="1" />
