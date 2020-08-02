@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="WEBFLUX INDICATOR CLASS" />
       <item value="Initialize the datasource with available DDL and DML scripts." />
       <item value="DDL" />
       <item value="Create the schema if necessary." />
@@ -50,12 +51,11 @@
       <item value="Spring Factories Loader" />
       <item value="Deferred Import Selector" />
       <item value="Auto Configuration Import Selector" />
-      <item value="profiles" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="484" />
-        <entry key="ENGLISH" value="485" />
+        <entry key="CHINESE" value="485" />
+        <entry key="ENGLISH" value="486" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="AMHARIC" value="1" />
