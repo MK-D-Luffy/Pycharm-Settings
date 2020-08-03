@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Connection refused: no further information" />
       <item value="exception Reporters" />
       <item value="deduce Main Application Class" />
       <item value="deduce" />
@@ -50,12 +51,11 @@
       <item value="Registrar" />
       <item value="Auto Configuration Packages" />
       <item value="proxy Bean Methods" />
-      <item value="Cassandra A" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="489" />
-        <entry key="ENGLISH" value="490" />
+        <entry key="CHINESE" value="490" />
+        <entry key="ENGLISH" value="491" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="AMHARIC" value="1" />
