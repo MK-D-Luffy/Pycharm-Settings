@@ -1,11 +1,11 @@
 <templateSet group="user">
-  <template name="test" value="@Test&#10;public void test$number$ (){&#10;    &#10;}" description="Test测试单元" toReformat="true" toShortenFQNames="true">
+  <template name="test" value="@Test&#10;void test$number$ (){&#10;    &#10;}" description="Test测试单元" toReformat="true" toShortenFQNames="true">
     <variable name="number" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="pvt" value="@Test&#10;public void test$number$ (){&#10;&#10;}" description="Test测试单元" toReformat="true" toShortenFQNames="true">
+  <template name="pvt" value="@Test&#10;void test$number$ (){&#10;&#10;}" description="Test测试单元" toReformat="true" toShortenFQNames="true">
     <variable name="number" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
@@ -26,6 +26,12 @@
     <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="mains" value="    public static void main(String[] args) {&#10;    SpringApplication.run($class$.class,args);&#10;}" description="springboot主启动类" toReformat="false" toShortenFQNames="true">
+    <variable name="class" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
     </context>
   </template>
 </templateSet>
