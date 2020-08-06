@@ -28,7 +28,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="mains" value="    public static void main(String[] args) {&#10;    SpringApplication.run($class$.class,args);&#10;}" description="springboot主启动类" toReformat="false" toShortenFQNames="true">
+  <template name="mains" value="public static void main(String[] args) {&#10;    SpringApplication.run($class$.class,args);&#10;}" description="springboot主启动类" toReformat="false" toShortenFQNames="true">
     <variable name="class" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
