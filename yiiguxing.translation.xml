@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="&quot;&quot;&quot; Recovered from sharingd`receiverSupportsX methods. A valid node needs to either have SUPPORTS_PIPELINING or SUPPORTS_MIXED_TYPES according to sharingd`[SDBonjourBrowser removeInvalidNodes:]. Default flags on macOS: 0x3fb according to sharingd`[SDRapportBrowser defaultSFNodeFlags] &quot;&quot;&quot;" />
+      <item value="This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details." />
+      <item value="This program is free software: you can redistribute it andor modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version." />
+      <item value="You should have received a copy of the GNU General Public License along with this program. If not, see &lt;https:www.gnu.orglicenses&gt;." />
       <item value="Hystrix" />
       <item value="Payment" />
       <item value="consul" />
@@ -47,15 +51,11 @@
       <item value="Mvc Uri Components Builder" />
       <item value="Executor Service" />
       <item value="register Infrastructure Beans" />
-      <item value="Exclusions:" />
-      <item value="Unconditional classes:" />
-      <item value="CONDITIONS EVALUATION REPORT" />
-      <item value="Nested Configuration Property" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="496" />
-        <entry key="ENGLISH" value="497" />
+        <entry key="CHINESE" value="500" />
+        <entry key="ENGLISH" value="501" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="AMHARIC" value="1" />
@@ -84,7 +84,7 @@
       </map>
     </option>
   </component>
-  <component name="Settings">
-    <option name="ignoreRegExp" value="" />
+  <component name="Cache">
+    <option name="lastTrimTime" value="1617693665602" />
   </component>
 </application>
